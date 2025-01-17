@@ -94,6 +94,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Guinhoal/Guinhoal/output/snake.svg" alt="Snake animation" />
 
 ###
