@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm a Technical System Development student at COLTEC, based in Brazil. I'm passionate about programming and love turning ideas into reality through code.</p>
+<p align="left">I'm a Technical System Development student at COLTEC, based in Brazil. I'm passionate about programming and love turning ideas into reality through code</p>
 
 ### What I'm working on  
 - 📚 Deepening my skills in **Object-Oriented Programming** and **Web Development**  
