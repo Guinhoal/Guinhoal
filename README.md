@@ -1,97 +1,123 @@
-<br clear="both">
+<div align="center">
 
-<h2 align="left">Hey there! 👋 I'm Thiago Arthur</h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Computer+Science+%40+UFMG;AI+%26+Cloud+Enthusiast;SaaS+Architecture" alt="Typing SVG" />
 
-###
+  <p align="center">
+    <a href="https://www.linkedin.com/in/thiago-arthur1">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:thiagodevprof@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://excaliweb.com">
+      <img src="https://img.shields.io/badge/Portfolio-Excaliweb-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
+  </p>
 
-<p align="left">I'm a Technical System Development student at COLTEC, based in Brazil. I'm passionate about programming and love turning ideas into reality through code</p>
+</div>
 
-### What I'm working on  
-- 📚 Deepening my skills in **Object-Oriented Programming** and **Web Development**  
-- 🛠️ Exploring the potential of **Databases** to create efficient solutions  
+---
 
-### A little about me  
-- 🌍 Languages: **Portuguese** (native), **English**, and **Spanish** (intermediate)  
-- 💡 Passionate about combining creativity and functionality in every project I work on  
-- 🚀 Constantly learning and striving to build impactful digital experiences  
+### 👨‍💻 About Me
 
-### Check out one of my big projects  
-🌐 [Excaliweb](https://excaliweb.com)  
+I'm a **Computer Science student at UFMG** and a Full Stack Developer with a passion for building scalable **SaaS architectures** and exploring **Artificial Intelligence**. My journey started with a technical degree at COLTEC and has evolved into delivering enterprise-grade solutions.
 
-<br clear="both">
+- 🔭 I’m currently working on **High-performance SaaS Multi-tenant systems**.
+- 🏆 **Achievement:** 1st Place at **Unimed Innovation Challenge** (AI-based Hospital Triage).
+- 🎓 Studying at **Federal University of Minas Gerais (UFMG)**.
+- ⚡ **Soft Skills:** Problem-solving, Technical Leadership, and Adaptability.
+- 💬 Ask me about **Django, Angular, Azure, and n8n**.
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Guinhoal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guinhoal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+        <br>Django
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+        <br>Angular
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+        <br>Postgres
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+        <br>Docker
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+        <br>Azure
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+        <br>AWS
+      </td>
+    </tr>
+     <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+        <br>Java
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+        <br>C++
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+        <br>Postman
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+        <br>Linux
+      </td>
+      <td align="center" width="90">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/N8n-logo-new.svg" width="48" height="48" alt="n8n" />
+        <br>n8n
+      </td>
+       <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+        <br>Redis
+      </td>
+       <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+        <br>Bootstrap
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guinhoal&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guinhoal&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph" />
 </div>
 
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/arthurthiago/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/guinhoal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thiagodevprof@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/thiago-arthur1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
-</div>
-
-###
+<br>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guinhoal/Guinhoal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guinhoal/Guinhoal/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guinhoal/Guinhoal/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guinhoal/Guinhoal/output/github-contribution-grid-snake.svg">
+  <img align="center" width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guinhoal/Guinhoal/output/github-contribution-grid-snake.svg">
 </picture>
-
-###
-
-<br clear="both">
-
-
-###
